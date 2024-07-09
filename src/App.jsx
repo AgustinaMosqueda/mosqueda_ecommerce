@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <ItemListContainer greeting={"!!"}/>
+      <ItemListContainer greeting={"Bienvenido a mi Ecommerce"}/>
 
     </div>
   );
